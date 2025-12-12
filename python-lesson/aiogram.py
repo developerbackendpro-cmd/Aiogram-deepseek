@@ -1,7 +1,7 @@
 import requests
 from aiogram import Bot, Dispatcher, executor, types
 
-BOT_TOKEN = ""
+BOT_TOKEN = "8023296312:AAFZvasvkaPKwvmfkPHXf5Q7AmoDaJLSvNg"
 DEEPSEEK_API_KEY = ""
 API_URL = "https://api.deepseek.com/v1/chat/completions"
 
